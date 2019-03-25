@@ -1,0 +1,29 @@
+"","Accuracy"
+"3-phosphoglycerate",0.708333333333333
+"5-hydroxynorvaline NIST",0.791666666666667
+"5-methoxytryptamine",0.666666666666667
+"adenosine-5-monophosphate",0.791666666666667
+"alpha-ketoglutarate",0.541666666666667
+"asparagine",0.458333333333333
+"aspartic acid",0.708333333333333
+"benzoic acid",0.625
+"citrulline",0.666666666666667
+"hypoxanthine",0.541666666666667
+"lactic acid",0.625
+"malic acid",0.416666666666667
+"maltose",0.625
+"maltotriose",0.625
+"methionine sulfoxide",0.625
+"nornicotine",0.75
+"phenol",0.583333333333333
+"phosphoethanolamine",0.625
+"pyrophosphate",0.75
+"pyruvic acid",0.583333333333333
+"quinic acid",0.5
+"taurine",0.833333333333333
+"tryptophan",0.666666666666667
+"uric acid",0.666666666666667
+"glutamine",0.625
+"inosine",0.541666666666667
+"lactamide",0.416666666666667
+"threonine",0.666666666666667

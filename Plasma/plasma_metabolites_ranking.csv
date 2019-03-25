@@ -1,0 +1,29 @@
+,sigFeature2018,SVM.RFE.2002,Nishith sir's ranking
+1,adenosine-5-monophosphate,adenosine-5-monophosphate,adenosine-5-monophosphate
+2,pyrophosphate,uric acid,taurine
+3,5-methoxytryptamine,benzoic acid,pyrophosphate
+4,taurine,methionine sulfoxide,phenol
+5,3-phosphoglycerate,citrulline,5-methoxytryptamine
+6,aspartic acid,glutamine,5-hydroxynorvaline NIST
+7,lactic acid,phenol,3-phosphoglycerate
+8,maltose,lactic acid,nomicotine
+9,phenol,maltotriose,aspartic acid
+10,5-hydroxynorvaline NIST,nornicotine,lactic acid
+11,nornicotine,5-hydroxynorvaline NIST,hypoxanthine
+12,methionine sulfoxide,aspartic acid,citrulline
+13,citrulline,maltose,methionine sulfoxide
+14,pyruvic acid,quinic acid,glutamine
+15,malic acid,asparagine,maltose
+16,asparagine,taurine,pyruvic acid
+17,quinic acid,phosphoethanolamine,phosphoethanolamine
+18,benzoic acid,pyruvic acid,tryptophan
+19,phosphoethanolamine,lactamide,asparagine
+20,hypoxanthine,malic acid,lactamide
+21,maltotriose,pyrophosphate,malic acid
+22,alpha-ketoglutarate,3-phosphoglycerate,quinic acid
+23,uric acid,tryptophan,benzoic acid
+24,inosine,hypoxanthine,maltotriose
+25,tryptophan,5-methoxytryptamine,inosine
+26,lactamide,alpha-ketoglutarate,uric acid
+27,glutamine,inosine,alpha-ketoglutarate
+28,threonine,threonine,
